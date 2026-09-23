@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Northstar | Investment Research",
+  title: "Investart Point | Investment Assitant",
   description:
     "An investment research portfolio with interactive company dashboards and clearly labeled sample financial data.",
   other: {
