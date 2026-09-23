@@ -119,7 +119,7 @@ export default function Home() {
             <BarChart3 size={23} />
           </span>
           <span>
-            Northstar<span className="brand-sub">INVESTMENT RESEARCH</span>
+            Investart Point <span className="brand-sub">INVESTMENT RESEARCH</span>
           </span>
         </SidebarHeader>
         <SidebarContent className="px-4">
