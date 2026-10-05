@@ -1,4 +1,4 @@
-# Northstar — Investment Research Portfolio
+# InvestartPoint — Investment Research Portfolio
 
 A personal investment-analysis website for exploring company fundamentals, financial performance, and valuation concepts.
 
